@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Anant Shirke 👋
 
-<!--
-**shirkeanant990/shirkeanant990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year B.Sc. Computer Science Student.
+📊 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science student with a strong interest in Data Science and Analytics.
+I am currently building my skills in Python, SQL, and Power BI, and exploring how data can be used to generate meaningful insights.
+
+*  Learning Data Science and Data Analytics
+*  Working with Python and SQL
+*  Exploring Data Visualization using Power BI
+*  Goal: To become a Data Scientist
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, SQL
+* **Tools:** Power BI
+* **Concepts:** Data Analysis, Data Visualization
+
+---
+
+## 📈 Currently Learning
+
+* Data Cleaning and Preprocessing
+* Data Visualization Techniques
+* Basics of Machine Learning
+
+---
+
+## 💼 Experience
+
+### Data Science Intern (Offer Holder)
+
+**Prodigy Infotech**
+
+* Selected based on foundational knowledge of Python, SQL, and Data Analysis
+* Learning real-world data science workflows and tools
+* Developing problem-solving and analytical thinking skills
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *www.linkedin.com/in/shirkeanant990*
+
+---
+
